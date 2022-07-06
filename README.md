@@ -1,4 +1,12 @@
-Here is a live demo to the app: https://disney-plus-clone-176f0.web.app
+## Here is a live demo to the app: https://disney-plus-clone-176f0.web.app
+
+## Here is a few pictures
+
+![image1](https://user-images.githubusercontent.com/79002760/177585029-1192e79d-9e9b-4af1-a0f1-88bf35d09284.png)
+
+![image2](https://user-images.githubusercontent.com/79002760/177585054-9b8dde6b-75f7-409d-a0fc-e9736dec7fe8.png)
+
+![image3](https://user-images.githubusercontent.com/79002760/177585067-361e7415-3d25-4e92-bb6a-2c578f81104a.png)
 
 # Getting Started with Create React App
 
