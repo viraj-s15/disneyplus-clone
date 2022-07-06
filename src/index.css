@@ -1,0 +1,46 @@
+html {
+  scroll-behavior: smooth;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-colour: #040714;
+  --text-colour: #f9f9f9;
+  --main-font: Avenir-Roman, sans-serif;
+}
+
+body {
+  background-color: var(--bg-colour);
+  font-family: var(--main-font);
+  color: var(--text-colour);
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--text-colour);
+  text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  body {
+    font-size: 0.9375rem;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  body {
+    font-size: 0.625rem;
+  }
+}
