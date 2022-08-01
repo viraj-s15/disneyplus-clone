@@ -1,6 +1,6 @@
 ## Here is a live demo to the app: https://disney-plus-clone-176f0.web.app
 
-## Here is a few pictures
+## Here are a few pictures
 
 ![image1](https://user-images.githubusercontent.com/79002760/177585029-1192e79d-9e9b-4af1-a0f1-88bf35d09284.png)
 
